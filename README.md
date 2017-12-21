@@ -1,2 +1,2 @@
 # hello-world
-Here is the updated version of the first Readme File before conquering the World !
+We just updated again to integrate with Sublime Text and we feel awesome ! 
